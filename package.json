@@ -4,12 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "hyper-express": "^6.7.1"
+    "hyper-express": "^6.7.1",
+    "nodemon": "^2.0.22"
   }
 }
