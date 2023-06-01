@@ -1,7 +1,7 @@
 {
   "name": "CSI-Computer-Science-Club-Website",
   "version": "1.0.0",
-  "description": "",
+  "description": "The official website for the CSI Computer Science Club",
   "main": "index.js",
   "scripts": {
     "start": "nodemon server.js"
